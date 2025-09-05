@@ -35,7 +35,7 @@ request message what you think the status is and whether you want help
 or are going to finish it on your own.
 
 * Please fork the repository at GitHub before getting started
-* Start with creating separate branches for each of your new  generators or features
+* Start with creating separate branches for each of your new generators or features
 
   * You can merge them into your master branch to have them all in one place
   * Please continue your work in the branches and repeatedly merge them to master
