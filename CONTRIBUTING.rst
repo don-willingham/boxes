@@ -178,7 +178,7 @@ system installation.
 Alternatively you can use Docker Compose to run the server locally.
 * Install Docker and Docker Compose
 * Run :code:`docker-compose up`
-* Open the web browser and go to http://localhost:4455
+* Open the web browser and go to http://localhost:8000
 This will start the server and enable hot reload so your changes will
 be visible immediately.
 
